@@ -1,0 +1,28 @@
+# Node modules or build tools (just in case)
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+~$*
+
+# Obsidian junk if someone copies content from a vault
+.obsidian/
+.cache/
+
+# VS Code settings (if any contributor uses it)
+.vscode/
+
+# Compressed files
+*.zip
+*.rar
+*.7z
